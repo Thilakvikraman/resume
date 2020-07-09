@@ -68,13 +68,12 @@ color: white;
     <div class="contact">
       <h3>Contact Me</h3>
       <div class="email"><a href="vikramanthilak@gmail.com"><span>vikramanthilak@gmail.com</span></a></div>
-      <div class="website"><a href="http://thagohm.blogspot.com"> www.myblogspot.com</a></div>
+      
     </div>
     <div class="follow">
-      <h3>Follow Me</h3>
+      <h3>My Work</h3>
       <div class="box">
-        <a href="https://www.instagram.com/thilak_tentative/" target="_blank"><i class="fab fa-instagram "></i></a>
-        <a href="https://www.linkedin.com/in/Thilak vikraman/" target="_blank"><i class="fab fa-linkedin"></i></a>
+        <div class="website"><a href="http://thagohm.blogspot.com"> www.myblogspot.com</a></div>
       </div>
     </div>
   </div>
