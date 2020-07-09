@@ -76,7 +76,6 @@ color: white;
         <div class="website"><a href="http://thagohm.blogspot.com"> www.myblogspot.com</a></div>
       </div>
     </div>
-  </div>
   <div class="func">
     <div class="edu">
       <h3><i class="fa fa-graduation-cap"></i>Education</h3>
