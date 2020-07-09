@@ -1,19 +1,10 @@
 # resume
-<!--<!doctype html>
-<html>
-<head>
-
-</head>
 ![pic 1](https://user-images.githubusercontent.com/52696573/85228546-99693f80-b401-11ea-8e30-b1bf6a13a9ed.jpg)
 
 <body>
 <div id="resume">
   <div id="base">
     <div id="profile">
-      <div id="photo">
-       <!-- <img src="pic 1.jpg" alt="thilak image">-->
-        <i class="fas fa-rocket"></i>
-      </div>
       <div class="info">
         <h1 class="name">Thilak vikraman</h1>
       </div>
