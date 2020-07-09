@@ -2,53 +2,8 @@
 <!--<!doctype html>
 <html>
 <head>
-<style>
-body {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  -webkit-transition: 0.5s;
-  transition: 0.5s;
-  background: $white;
-  cursor: default;
-  font-family: "Montserrat", sans-serif;
-  font-size: 14px;
-}
 
-a {
-  text-decoration: none;
-  color: $white;
-  display: block;
-  transition-duration: 0.3s;
-}
-skills-prog.fas fa-code{
-  margin-bottom: 8px;
-  display: flex;
-  align-items: center;
-  transition-duration: 0.3s;
-}
-
-p.child,p.School-life,p.college,p.blogger
-{
-space-intend:1px;
-word-spacing:2px;
-word-break:break-all;
-}
-img{
-border-radius:50%;
-padding:40px;
-align:centre;
-}
-h2,h3
-{
-color: white;
-  text-shadow: 2px 2px 4px #000000;
-}
-</style>
-
-</head>!-->
+</head>
 ![pic 1](https://user-images.githubusercontent.com/52696573/85228546-99693f80-b401-11ea-8e30-b1bf6a13a9ed.jpg)
 
 <body>
@@ -69,6 +24,7 @@ color: white;
       <h3>Contact Me</h3>
       <div class="email"><a href="vikramanthilak@gmail.com"><span>vikramanthilak@gmail.com</span></a></div>
       
+    </div>
     </div>
     <div class="follow">
       <h3>My Work</h3>
