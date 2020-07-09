@@ -56,7 +56,7 @@ color: white;
   <div id="base">
     <div id="profile">
       <div id="photo">
-        <img src="pic 1.jpg" alt="thilak image">
+       <!-- <img src="pic 1.jpg" alt="thilak image">-->
         <i class="fas fa-rocket"></i>
       </div>
       <div class="info">
