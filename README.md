@@ -14,14 +14,10 @@
     <div class="contact">
       <h3>Contact Me</h3>
       <div class="email"><a href="vikramanthilak@gmail.com"><span>vikramanthilak@gmail.com</span></a></div>
-      
-    </div>
-    </div>
-    <div class="follow">
-      <h3>My Work</h3>
-      <div class="box">
-        <div class="website"><a href="http://thagohm.blogspot.com"> www.myblogspot.com</a></div>
       </div>
+     <div class="follow">
+      <h3>My Work</h3>
+        <div class="website"><a href="http://thagohm.blogspot.com"> www.myblogspot.com</a></div>
     </div>
   <div class="func">
     <div class="edu">
